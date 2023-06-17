@@ -1,1 +1,0 @@
- class="lazy lazy-fade-in" width="60px" height="60px" style="border-radius: 23.37%;">

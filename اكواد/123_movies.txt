@@ -1,1 +1,0 @@
-<a href="itms-services://?action=download-manifest&amp;url=https://ignition.fun/install.php%3Fapp%3D1" onclick="app.popup.open('#installPopup'); $$('.app-icon').attr('src', 'https://images.ipas.fun/images/123_movies.png'); $$('.installingAppName').text('123 Movies');" class="link external" style="color: white; font-weight: 600; font-size: 14px;">GET</a>

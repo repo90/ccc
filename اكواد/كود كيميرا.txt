@@ -1,1 +1,0 @@
-<a href="itms-services://?action=download-manifest&amp;url=https://ignition.fun/install.php%3Fapp%3D1356" onclick="app.popup.open('#installPopup'); $$('.app-icon').attr('src', 'https://repo.chimera.sh/CydiaIcon@3x.png'); $$('.installingAppName').text('Chimera');" class="link external" style="color: white; font-weight: 600; font-size: 14px;">GET</a>
